@@ -609,7 +609,7 @@ Ultimately, their intertwined destinies represent the novel's ideal of 'Qing' (�
 
 梅子玉与杜琴言构成了这个网络的核心，两人之间存在着一种极其深厚、近乎精神层面的知己之情。王恂作为子玉的表兄和社交圈的活跃组织者，经常筹办宴饮与文会，为这些人物的相聚与互动提供了舞台。苏蕙芳是一位品格高尚的名伶，也是琴言的挚友，她在琴言遭遇困境时给予了关键的支持；她的机智与谋划在琴言最终被赎身脱籍的过程中发挥了重要作用。萧次贤是一位博学多才的名士，也是出资为琴言赎身的徐子云的挚友，他在这个群体中扮演着艺术与精神导师的角色。萧次贤的参与在最终绘制“九香花史”群像时达到了高潮，他将琴言、蕙芳等人描绘为花神，而梅子玉则为他们撰写了传赞铭文，使他们的形象得以不朽。
 
-最终，他们交织的命运体现了全书关于“情”的最高理想——即纯洁、发乎情止乎礼的真情。在这个理想的境界中，名士与名伶通过诗词、书画和高尚的品德互相成就，超越了世俗身份的界限，共同构建了一个不朽的知己共同体。`},S=Object.freeze(Object.defineProperty({__proto__:null,question:T},Symbol.toStringTag,{value:"Module"})),P={categoryZh:"同性情欲与性别研究",categoryEn:"Queer & Gender Studies",questionEn:"Based on the culture of Qing dynasty Beijing, why did the author write a book advocating for a love of beauty between men that is 'not lewd' (haose er bu yin)? Answer using 5 specific excerpts from the novel.",questionZh:"基于清朝北京的文化，为什么作者会写一本要男性之间好色而不淫的书？结合全书具体的5个片段回答。",answerEn:`During the mid-Qing dynasty in Beijing, the theater culture—specifically the patronage of young male *dan* actors (who played female roles) by the literati and officials—was extremely prominent. Because women were often excluded from the public theater scene and officials were technically barred from visiting female prostitutes, socializing with these male actors in private banquets (as "xianggong") became a ubiquitous cultural phenomenon. While this practice frequently involved sexual transactions and exploitation, the author of *Pinhua Baojian* sought to elevate and idealize these relationships. By invoking the classical Confucian aesthetic of *“haose er bu yin”* ("loving beauty without being lewd", originally from the *Classic of Poetry*), the author advocates for a platonic, spiritually refined affection (*qing*) based on mutual respect, literary talent, and soulmate-like understanding, rather than vulgar lust (*yin*).
+最终，他们交织的命运体现了全书关于“情”的最高理想——即纯洁、发乎情止乎礼的真情。在这个理想的境界中，名士与名伶通过诗词、书画和高尚的品德互相成就，超越了世俗身份的界限，共同构建了一个不朽的知己共同体。`},S=Object.freeze(Object.defineProperty({__proto__:null,question:T},Symbol.toStringTag,{value:"Module"})),Z={categoryZh:"同性情欲与性别研究",categoryEn:"Queer & Gender Studies",questionEn:"Based on the culture of Qing dynasty Beijing, why did the author write a book advocating for a love of beauty between men that is 'not lewd' (haose er bu yin)? Answer using 5 specific excerpts from the novel.",questionZh:"基于清朝北京的文化，为什么作者会写一本要男性之间好色而不淫的书？结合全书具体的5个片段回答。",answerEn:`During the mid-Qing dynasty in Beijing, the theater culture—specifically the patronage of young male *dan* actors (who played female roles) by the literati and officials—was extremely prominent. Because women were often excluded from the public theater scene and officials were technically barred from visiting female prostitutes, socializing with these male actors in private banquets (as "xianggong") became a ubiquitous cultural phenomenon. While this practice frequently involved sexual transactions and exploitation, the author of *Pinhua Baojian* sought to elevate and idealize these relationships. By invoking the classical Confucian aesthetic of *“haose er bu yin”* ("loving beauty without being lewd", originally from the *Classic of Poetry*), the author advocates for a platonic, spiritually refined affection (*qing*) based on mutual respect, literary talent, and soulmate-like understanding, rather than vulgar lust (*yin*).
 
 Here are 5 specific excerpts from the novel that illustrate this philosophy:
 
@@ -653,7 +653,7 @@ Even characters known for their extreme wealth and luxurious lifestyles, like Hu
 
 ### 5. 奢华而不淫荡（第二十六回）
 即使是像华公子这样以极度富有和生活奢华著称的角色，也因为坚持这一原则而得到了救赎，这表明文雅是品格的问题，而不仅仅是环境的问题。
-> “就是华公子心爱奢华，却不淫荡。”`},Z=Object.freeze(Object.defineProperty({__proto__:null,question:P},Symbol.toStringTag,{value:"Module"})),q={categoryZh:"版本历史与比较文学",categoryEn:"Editions, History & Comparisons",questionEn:"What historical era is the story of Pinhua Baojian set in?",questionZh:"《品花宝鉴》里描写的故事是什么年代的？",answerEn:`While the author famously states in Chapter 1 that "this book does not record any names, and it is unknown what era, what year, what place, or who wrote it" (此书不着姓名，究不知何代何年何地何人所作), internal textual evidence clearly sets the story during the **Qing Dynasty**. 
+> “就是华公子心爱奢华，却不淫荡。”`},P=Object.freeze(Object.defineProperty({__proto__:null,question:Z},Symbol.toStringTag,{value:"Module"})),q={categoryZh:"版本历史与比较文学",categoryEn:"Editions, History & Comparisons",questionEn:"What historical era is the story of Pinhua Baojian set in?",questionZh:"《品花宝鉴》里描写的故事是什么年代的？",answerEn:`While the author famously states in Chapter 1 that "this book does not record any names, and it is unknown what era, what year, what place, or who wrote it" (此书不着姓名，究不知何代何年何地何人所作), internal textual evidence clearly sets the story during the **Qing Dynasty**. 
 
 Several specific details anchor the story to the Qing Dynasty:
 1. **Hairstyles**: Characters are explicitly described as having queues/braids (辫子), a distinctly Qing dynasty hairstyle imposed on Han Chinese men. For instance, in Chapter 36, a character is described with a "large braid trailing behind" (后头仍拖着大辫子).
@@ -665,7 +665,7 @@ Therefore, despite the author's framing device of an "unknown era," the vivid, r
 1. **发型**：小说中明确描写了角色留有「辫子」——这是清朝特有的男子发型。例如在第36回中，描写某人「后头仍拖着大辫子」。
 2. **地理与货币**：故事发生在「京城」或「京师」（即北京），提到了北京的戏园以及具有地方特色的货币如「京钱」和「大钱」，这与清代的货币体系和术语一致。
 
-因此，尽管作者采用了「不知何代何年」的虚构设定，小说中生动、写实的社会背景确凿无疑地将其置于清代的社会现实之中。`},j=Object.freeze(Object.defineProperty({__proto__:null,question:q},Symbol.toStringTag,{value:"Module"})),E={categoryZh:"同性情欲与性别研究",categoryEn:"Queer & Gender Studies",questionEn:'From the perspective of contemporary Chinese and Western gay life, what are the historical limitations of "Pinhua Baojian"? Analyze specifically based on all chapters.',questionZh:"从当代中国和西方的男同性恋生活视角看品花宝鉴，这部小说有哪些时代的局限性？结合全部章节具体分析",answerEn:`From a contemporary LGBTQ+ perspective, *Pinhua Baojian* has several stark historical limitations, primarily stemming from its deeply entrenched classism, its strict dichotomy between emotion and sexuality, and its ultimate adherence to patriarchal heteronormativity.
+因此，尽管作者采用了「不知何代何年」的虚构设定，小说中生动、写实的社会背景确凿无疑地将其置于清代的社会现实之中。`},H=Object.freeze(Object.defineProperty({__proto__:null,question:q},Symbol.toStringTag,{value:"Module"})),j={categoryZh:"同性情欲与性别研究",categoryEn:"Queer & Gender Studies",questionEn:'From the perspective of contemporary Chinese and Western gay life, what are the historical limitations of "Pinhua Baojian"? Analyze specifically based on all chapters.',questionZh:"从当代中国和西方的男同性恋生活视角看品花宝鉴，这部小说有哪些时代的局限性？结合全部章节具体分析",answerEn:`From a contemporary LGBTQ+ perspective, *Pinhua Baojian* has several stark historical limitations, primarily stemming from its deeply entrenched classism, its strict dichotomy between emotion and sexuality, and its ultimate adherence to patriarchal heteronormativity.
 
 ### 1. The Rigid Separation of "Qing" (Emotion) and "Yin" (Lust)
 Modern gay relationships celebrate the holistic integration of emotional romance and physical intimacy. In contrast, the novel strictly segregates the two. It elevates "pure sentiment" (情 - qing) while completely condemning physical same-sex acts as debauched (淫 - yin). For example, in Chapter 24, characters explicitly argue that true feeling only exists for those who "love beauty without being lustful," claiming that once physical lust is involved, the feeling is no longer genuine. The novel denies the possibility of a healthy, holistic romantic relationship that includes physical expression, viewing physical intimacy purely as a corrupting force.
@@ -683,7 +683,7 @@ Perhaps the most significant limitation is that the novel treats same-sex love a
 当代同性关系的理想强调平等和双向的能动性。然而，《品花宝鉴》中的关系本质上是建立在巨大的权力不平等之上的。核心的互动存在于富裕的精英学者（如梅子玉、田春航和徐子云）和处于边缘地位的年轻伶人（如杜琴言和苏蕙芳）之间。学者们充当着赞助人和拯救者的角色，而伶人则基本上是依附者，他们的生存和社会地位完全依赖于精英的青睐。这种动态缺乏现代意义上的平等主义。
 
 ### 3. 回归父权异性恋规范
-也许最重大的局限在于，小说将同性之爱视为一种审美的追求或婚前阶段，而不是一种终生的、排他性的身份认同。整个叙事最终还是屈服于父权责任和家庭义务。主要的学者们最终都娶妻成家，建立传统的家庭。例如，在第52回中，田春航迎娶了苏家的富家千金，他们奢华的婚礼成为焦点。在第57回中，主要学者们的妻子（包括徐子云的妻子袁绮香）甚至结拜为姐妹，展示了传统异性恋婚姻在社会结构中的核心地位和永恒性。尽管同性间的忠诚在情感层面上受到赞美，但它最终还是被结婚传宗接代的不可避免的要求所吞没。`},H=Object.freeze(Object.defineProperty({__proto__:null,question:E},Symbol.toStringTag,{value:"Module"})),z={categoryZh:"同性情欲与性别研究",categoryEn:"Queer & Gender Studies",questionEn:"What are the terms corresponding to male homosexuality (gay) in Pinhua Baojian?",questionZh:"在《品花宝鉴》里和男同性恋(gay)对应的术语有哪些？",answerEn:`In *Pinhua Baojian* and the context of the Qing Dynasty, modern concepts like "homosexual" (同性恋) or "gay" did not exist. Instead, the novel uses terminology specific to the theatrical culture and traditional Chinese historical references for male same-sex relationships.
+也许最重大的局限在于，小说将同性之爱视为一种审美的追求或婚前阶段，而不是一种终生的、排他性的身份认同。整个叙事最终还是屈服于父权责任和家庭义务。主要的学者们最终都娶妻成家，建立传统的家庭。例如，在第52回中，田春航迎娶了苏家的富家千金，他们奢华的婚礼成为焦点。在第57回中，主要学者们的妻子（包括徐子云的妻子袁绮香）甚至结拜为姐妹，展示了传统异性恋婚姻在社会结构中的核心地位和永恒性。尽管同性间的忠诚在情感层面上受到赞美，但它最终还是被结婚传宗接代的不可避免的要求所吞没。`},E=Object.freeze(Object.defineProperty({__proto__:null,question:j},Symbol.toStringTag,{value:"Module"})),z={categoryZh:"同性情欲与性别研究",categoryEn:"Queer & Gender Studies",questionEn:"What are the terms corresponding to male homosexuality (gay) in Pinhua Baojian?",questionZh:"在《品花宝鉴》里和男同性恋(gay)对应的术语有哪些？",answerEn:`In *Pinhua Baojian* and the context of the Qing Dynasty, modern concepts like "homosexual" (同性恋) or "gay" did not exist. Instead, the novel uses terminology specific to the theatrical culture and traditional Chinese historical references for male same-sex relationships.
 
 Here are the primary terms used in the novel, along with examples:
 
@@ -697,7 +697,7 @@ Here are the primary terms used in the novel, along with examples:
 1. **相公与Gay的区别：** 这是小说中最常使用的词（出现了数百次）。在这个特定的语境下，它指的是年轻的男旦（扮演女性角色）演员，他们经常为男性主顾提供性或情感上的陪伴。这是清代北京戏曲圈中一个礼貌且常用的称呼，尽管它的本意是“年轻的公子”或“丈夫”。 **意义差异：** 现代术语“gay”指的是一种天生的、平等的性取向和身份认同。相比之下，“相公”描述的是一种特定的、等级森严的社会和职业角色（主顾与艺人的动态关系）。“相公”被期望展现女性气质，并迎合年长、富有的男性主顾，以此作为谋生手段。这并不一定定义了演员天生的性取向，那些主顾（通常已婚并有家庭）也不会认为自己是“同性恋”。这是一种社会建构的行为，而不是固定的身份认同。 *（注：在晚清北京的历史文献和民间俗语中，“相公”有时会被谐音为“像姑”或“象姑”，字面意思是“像姑娘”，以强调他们的女性化角色。然而，《品花宝鉴》的作者在整部小说中坚持使用更礼貌、正式的“相公”一词，并未使用“像姑”作为特定名词。）*
 2. **娈童：** 一个历史术语，指的是被年长男性作为男宠或伴侣包养的年轻男孩。它有着更古老的历史渊源，并暗示了基于年龄和地位的权力不平等。 *原文片段（第十三回）：* “……潘三无计可施，近生了个收买**娈童**之念，在各班中留心物色。”
 3. **男风：** 字面意思是“男性的风气”，这是对男性同性行为或“男色之风”的传统统称。 *原文片段（第五十八回）：* “……又知道潘三爱**男风**，必想得月，不许他进来窥探，潘三竟不敢进来，只好暗地垂涎。”
-4. **断袖与龙阳：** 这些是古典历史典故。“断袖”指的是汉哀帝，他为了不惊醒他的同性恋人董贤，宁可割断自己的衣袖。“龙阳”指的是战国时期的龙阳君，以其与魏王的关系而闻名。这些是文人雅士用来指代男性同性之爱的文雅方式，经常被小说中受过教育的文人角色所使用。 *原文片段（第三十二回 - 断袖）：* “……是宜先除巾服，消**断袖**之余妍……” *原文片段（第七回 - 龙阳）：* “……南湘道：‘**龙阳**一品长精神。’……”`},_=Object.freeze(Object.defineProperty({__proto__:null,question:z},Symbol.toStringTag,{value:"Module"})),B={categoryZh:"版本历史与比较文学",categoryEn:"Editions, History & Comparisons",questionEn:"Based on the whole book, discuss the relationship between 'Pinhua Baojian' and the place Jiangxi.",questionZh:"结合全书，说说《品花宝鉴》和江西这个地方的关系",answerEn:"In *Pinhua Baojian*, Jiangxi is portrayed primarily as a place of official duty and political career advancement for the older generation, acting as a contrast to the leisure and romance found in Beijing. For example, Mei Shixie, the father of Mei Ziyu, was appointed as the Educational Commissioner (学政) of Jiangxi. His tenure there was marked by such high integrity and strict refusal of bribes that the local people compared him to historical figures like Sima Guang and Wen Yanbo. Similarly, Qu Benli (Qu Daosheng) served as a magistrate in Jiangxi, where he tackled severe corruption by taking down local tyrants and corrupt officials (the 'tiger', 'wolf', 'snake', and 'scorpion' of the East and West townships). Through these narratives, Jiangxi represents the serious sphere of civil service, official responsibility, and moral governance, standing apart from the theatrical and social life in the capital.",answerZh:"在《品花宝鉴》中，江西主要被描绘为老一辈人物赴任当官、施展政治抱负的地方，与京城中年轻一代的休闲与风月生活形成了对比。例如，梅子玉的父亲梅士燮被任命为江西学政，他在任上严拒情面，杜绝苞苴，以清正廉明著称，甚至被当地人比作司马光和文彦博。同样，屈本立（屈道生）也曾在江西担任知县，他在任职期间致力于打击地方上的土豪和蠹役（即东西乡的“虎”、“狼”、“蛇”、“蝎”），肃清了地方吏治。通过这些人物的经历，江西在书中象征着严肃的官场、行政责任与道德治理，与京城的戏曲和社交生活形成了鲜明反差。"},I=Object.freeze(Object.defineProperty({__proto__:null,question:B},Symbol.toStringTag,{value:"Module"})),W={categoryZh:"翻译与数字人文",categoryEn:"Translation & Digital Humanities",questionEn:"When LLMs translate Pinhua Baojian, why do they tend to mistake the male actors for females? Analyze with specific paragraphs.",questionZh:"当LLMs翻译《品花宝鉴》的时候，为什么倾向于把里面的男演员误认为是女性？结合具体段落分析。",answerEn:`In *Pinhua Baojian*, the male actors (especially the young men playing *dan* or female roles) are frequently described using extremely feminized language. Large Language Models (LLMs) rely on statistical patterns in their training data. When they encounter vocabulary and idioms that are almost exclusively associated with women in historical texts, they default to using female pronouns ("she/her") and assuming a female identity, missing the broader context that the novel focuses on young male actors.
+4. **断袖与龙阳：** 这些是古典历史典故。“断袖”指的是汉哀帝，他为了不惊醒他的同性恋人董贤，宁可割断自己的衣袖。“龙阳”指的是战国时期的龙阳君，以其与魏王的关系而闻名。这些是文人雅士用来指代男性同性之爱的文雅方式，经常被小说中受过教育的文人角色所使用。 *原文片段（第三十二回 - 断袖）：* “……是宜先除巾服，消**断袖**之余妍……” *原文片段（第七回 - 龙阳）：* “……南湘道：‘**龙阳**一品长精神。’……”`},_=Object.freeze(Object.defineProperty({__proto__:null,question:z},Symbol.toStringTag,{value:"Module"})),B={categoryZh:"版本历史与比较文学",categoryEn:"Editions, History & Comparisons",questionEn:"Based on the whole book, discuss the relationship between 'Pinhua Baojian' and the place Jiangxi.",questionZh:"结合全书，说说《品花宝鉴》和江西这个地方的关系",answerEn:"In *Pinhua Baojian*, Jiangxi is portrayed primarily as a place of official duty and political career advancement for the older generation, acting as a contrast to the leisure and romance found in Beijing. For example, Mei Shixie, the father of Mei Ziyu, was appointed as the Educational Commissioner (学政) of Jiangxi. His tenure there was marked by such high integrity and strict refusal of bribes that the local people compared him to historical figures like Sima Guang and Wen Yanbo. Similarly, Qu Benli (Qu Daosheng) served as a magistrate in Jiangxi, where he tackled severe corruption by taking down local tyrants and corrupt officials (the 'tiger', 'wolf', 'snake', and 'scorpion' of the East and West townships). Through these narratives, Jiangxi represents the serious sphere of civil service, official responsibility, and moral governance, standing apart from the theatrical and social life in the capital.",answerZh:"在《品花宝鉴》中，江西主要被描绘为老一辈人物赴任当官、施展政治抱负的地方，与京城中年轻一代的休闲与风月生活形成了对比。例如，梅子玉的父亲梅士燮被任命为江西学政，他在任上严拒情面，杜绝苞苴，以清正廉明著称，甚至被当地人比作司马光和文彦博。同样，屈本立（屈道生）也曾在江西担任知县，他在任职期间致力于打击地方上的土豪和蠹役（即东西乡的“虎”、“狼”、“蛇”、“蝎”），肃清了地方吏治。通过这些人物的经历，江西在书中象征着严肃的官场、行政责任与道德治理，与京城的戏曲和社交生活形成了鲜明反差。"},Q=Object.freeze(Object.defineProperty({__proto__:null,question:B},Symbol.toStringTag,{value:"Module"})),I={categoryZh:"翻译与数字人文",categoryEn:"Translation & Digital Humanities",questionEn:"When LLMs translate Pinhua Baojian, why do they tend to mistake the male actors for females? Analyze with specific paragraphs.",questionZh:"当LLMs翻译《品花宝鉴》的时候，为什么倾向于把里面的男演员误认为是女性？结合具体段落分析。",answerEn:`In *Pinhua Baojian*, the male actors (especially the young men playing *dan* or female roles) are frequently described using extremely feminized language. Large Language Models (LLMs) rely on statistical patterns in their training data. When they encounter vocabulary and idioms that are almost exclusively associated with women in historical texts, they default to using female pronouns ("she/her") and assuming a female identity, missing the broader context that the novel focuses on young male actors.
 
 Analyzing specific paragraphs from Chapter 1:
 
@@ -735,7 +735,7 @@ In conclusion, the author Chen Sen deliberately uses conventions of female portr
 ### 4. 文言文的主语省略（Pro-drop）
 古典中文经常省略代词。由于上下文充满了女性化的描述，当LLM必须在英文中强行插入一个主语代词以符合英语语法时，统计概率会驱使它选择“she”而不是“he”。
 
-综上所述，作者陈森刻意用描写女性的笔法来赞美这些男伶的“阴柔之美”，这打破了LLM训练数据中常规的性别词汇映射，从而导致了翻译时的性别误判。`},M=Object.freeze(Object.defineProperty({__proto__:null,question:W},Symbol.toStringTag,{value:"Module"})),L={categoryZh:"酒令诗会与意象",categoryEn:"Games & Literary Motifs",questionEn:"What are the main drinking-game (酒令) scenes in Pinhua Baojian, and how are the rules and outcomes of each described?",questionZh:"《品花宝鉴》中有哪些主要的酒令场景？各场如何行令、参与者是谁、胜负如何？",answerEn:`After a full-text search of *Pinhua Baojian* for keywords such as drinking games (酒令), finger-guessing (猜拳), and dice-rolling (掷骰), the novel mainly depicts **five representative, detailed drinking-game scenes**.
+综上所述，作者陈森刻意用描写女性的笔法来赞美这些男伶的“阴柔之美”，这打破了LLM训练数据中常规的性别词汇映射，从而导致了翻译时的性别误判。`},W=Object.freeze(Object.defineProperty({__proto__:null,question:I},Symbol.toStringTag,{value:"Module"})),M={categoryZh:"酒令诗会与意象",categoryEn:"Games & Literary Motifs",questionEn:"What are the main drinking-game (酒令) scenes in Pinhua Baojian, and how are the rules and outcomes of each described?",questionZh:"《品花宝鉴》中有哪些主要的酒令场景？各场如何行令、参与者是谁、胜负如何？",answerEn:`After a full-text search of *Pinhua Baojian* for keywords such as drinking games (酒令), finger-guessing (猜拳), and dice-rolling (掷骰), the novel mainly depicts **five representative, detailed drinking-game scenes**.
 
 Below is a summary of each passage, its rules, and who wins or loses.
 
@@ -873,7 +873,7 @@ These scenes reflect the characters' learning and temperaments, and the banqueti
 
 ### 结语
 
-这些情节深刻反映了人物的学识、性格，以及当时士大夫与闺阁的宴饮文化；文雅的集句、霸气的打通关、热闹的丫鬟嬉戏，都在这些酒令中展现得淋漓尽致。`},Q=Object.freeze(Object.defineProperty({__proto__:null,question:L},Symbol.toStringTag,{value:"Module"})),A={categoryZh:"情节与人物",categoryEn:"Plot & Characters",questionEn:"Who are the main performers in the novel?",questionZh:"小说中的主要表演者（伶人）有哪些？",answerEn:`The main performers (伶人) in the novel are:
+这些情节深刻反映了人物的学识、性格，以及当时士大夫与闺阁的宴饮文化；文雅的集句、霸气的打通关、热闹的丫鬟嬉戏，都在这些酒令中展现得淋漓尽致。`},L=Object.freeze(Object.defineProperty({__proto__:null,question:M},Symbol.toStringTag,{value:"Module"})),A={categoryZh:"情节与人物",categoryEn:"Plot & Characters",questionEn:"Who are the main performers in the novel?",questionZh:"小说中的主要表演者（伶人）有哪些？",answerEn:`The main performers (伶人) in the novel are:
 
 1. **Du Qinyan (杜琴言)** - The central romantic figure, an orphaned performer renamed by Xu Ziyun. He is the protagonist's love interest and goes through many trials before being redeemed.
 
@@ -909,7 +909,7 @@ These scenes reflect the characters' learning and temperaments, and the banqueti
 
 8. **王桂保（Wang Guibao）** - 花榜第七，机智讨喜，兰保之弟，贯穿全书始终。
 
-9. **林春喜（Lin Chunxi）** - 花榜第八，12岁入班，兼演男女角，第50回改写剧本。`},G=Object.freeze(Object.defineProperty({__proto__:null,question:A},Symbol.toStringTag,{value:"Module"})),Y={categoryZh:"情节与人物",categoryEn:"Plot & Characters",questionEn:"Who are the main scholars (mingshi) in the novel?",questionZh:"小说中的主要名士有哪些？",answerEn:`In *Pinhua Baojian*, the term "mingshi" (scholars/literati) primarily refers to the group of talented, refined young men who gather at Xu Ziyun's Yi Garden. The main scholars include:
+9. **林春喜（Lin Chunxi）** - 花榜第八，12岁入班，兼演男女角，第50回改写剧本。`},G=Object.freeze(Object.defineProperty({__proto__:null,question:A},Symbol.toStringTag,{value:"Module"})),D={categoryZh:"情节与人物",categoryEn:"Plot & Characters",questionEn:"Who are the main scholars (mingshi) in the novel?",questionZh:"小说中的主要名士有哪些？",answerEn:`In *Pinhua Baojian*, the term "mingshi" (scholars/literati) primarily refers to the group of talented, refined young men who gather at Xu Ziyun's Yi Garden. The main scholars include:
 
 1. **Xu Ziyun (徐子云)**, courtesy name Duhang (度香).
 2. **Mei Ziyu (梅子玉)**, courtesy name Yuxiang (庾香).
@@ -1019,7 +1019,7 @@ Below are the relevant paragraphs from the novel that explicitly mention these s
 > 众人看完，喜动颜色，痛赞不已，说道：「可谓木桃之投，而得琼瑶之报矣。」是日畅饮欢呼而散。
 > 便将祝文拿出来。高品道：「好的，我就读起来。」高品高声朗读，诸名士倾耳而听。听得高品读道：
 > 祝文读完，众花史齐齐下拜了，便将那些舞衫歌扇、翠羽金钿，在园中太湖石畔烧化起来。诸名士看那火光五色，吐金闪绿。将到烧完时，忽然一阵香风，将那灰烬吹上半空，飘飘点点，映着一轮红日，像无数的花朵与蝴蝶飞舞，金迷纸醉，香气扑鼻，越旋越高，到了半天，成了万点金光，一闪不见。
-`},D=Object.freeze(Object.defineProperty({__proto__:null,question:Y},Symbol.toStringTag,{value:"Module"})),X={categoryZh:"同性情欲与性别研究",categoryEn:"Queer & Gender Studies",questionEn:"What does the novel think about males admiring other males?",questionZh:"小说如何看待男性爱慕男性？",answerEn:`The novel presents a complex view on males admiring other males, distinguishing between pure appreciation of beauty and base lust. Several characters articulate philosophies defending this admiration:
+`},Y=Object.freeze(Object.defineProperty({__proto__:null,question:D},Symbol.toStringTag,{value:"Module"})),X={categoryZh:"同性情欲与性别研究",categoryEn:"Queer & Gender Studies",questionEn:"What does the novel think about males admiring other males?",questionZh:"小说如何看待男性爱慕男性？",answerEn:`The novel presents a complex view on males admiring other males, distinguishing between pure appreciation of beauty and base lust. Several characters articulate philosophies defending this admiration:
 
 ### Chapter 1
 In Chapter 1, Shi Nanxiang argues that beauty is not exclusive to women, citing historical and literary examples of beautiful men:
@@ -1051,7 +1051,7 @@ In Chapter 24, characters like Zhongqing and Wang Xun discuss the different type
 春航道：「纵横十万里，上下五千年，那有比相公好的东西？... 造物既费大气力生了这些相公，是造物于相公不为不厚。... 我最不解今人好女色则以为常，好男色则以为异，究竟色就是了，又何必分出男女来？好女而不好男，终是好淫，而非好色。彼既好淫，便不论色。若既重色，自不敢淫。」
 
 ### 第24回
-仲清笑道：「... 世唯好色不淫之人始有真情，若一涉淫亵，情就是淫亵上生的，不是性分中出来的。譬如方才说的潘三，心上也是想着媚香，难道说他也是钟情的不成？」王恂道：「也要算情，若说不是情，他也不想了。」仲清笑道：「潘三若有情，倒绝不想媚香，其想媚香正是其无情处。」...「至若魏聘才、冯子佩、潘三等，真可谓情中之蠹，近其人则蠹身，顺其情则蠹心。...还听得有个奚十一，专爱糟蹋相公...此是情中的盗贼。」`},O=Object.freeze(Object.defineProperty({__proto__:null,question:X},Symbol.toStringTag,{value:"Module"})),F={categoryZh:"同性情欲与性别研究",categoryEn:"Queer & Gender Studies",questionEn:"Did the aesthetic of male same-sex desire in the Qing Dynasty not favor masculinity? Why?",questionZh:"清朝男性同性情欲的审美就不流行阳刚之气吗？为什么？",answerEn:`Based on *Pinhua Baojian* and the context of mid-Qing dynasty Beijing, the aesthetic for male same-sex desire primarily revolved around the appreciation of *dan* actors (young boys who played female roles). This specific culture heavily favored femininity, delicacy, and "spiritual elegance" (灵秀) over conventional masculinity.
+仲清笑道：「... 世唯好色不淫之人始有真情，若一涉淫亵，情就是淫亵上生的，不是性分中出来的。譬如方才说的潘三，心上也是想着媚香，难道说他也是钟情的不成？」王恂道：「也要算情，若说不是情，他也不想了。」仲清笑道：「潘三若有情，倒绝不想媚香，其想媚香正是其无情处。」...「至若魏聘才、冯子佩、潘三等，真可谓情中之蠹，近其人则蠹身，顺其情则蠹心。...还听得有个奚十一，专爱糟蹋相公...此是情中的盗贼。」`},F=Object.freeze(Object.defineProperty({__proto__:null,question:X},Symbol.toStringTag,{value:"Module"})),O={categoryZh:"同性情欲与性别研究",categoryEn:"Queer & Gender Studies",questionEn:"Did the aesthetic of male same-sex desire in the Qing Dynasty not favor masculinity? Why?",questionZh:"清朝男性同性情欲的审美就不流行阳刚之气吗？为什么？",answerEn:`Based on *Pinhua Baojian* and the context of mid-Qing dynasty Beijing, the aesthetic for male same-sex desire primarily revolved around the appreciation of *dan* actors (young boys who played female roles). This specific culture heavily favored femininity, delicacy, and "spiritual elegance" (灵秀) over conventional masculinity.
 
 Several factors contributed to this aesthetic:
 1. **The Role of *Dan* Actors:** The objects of desire were primarily young performers trained to embody female characters on stage. Their appeal was inextricably linked to their ability to perform femininity convincingly, both on and off the stage.
@@ -1071,7 +1071,7 @@ Therefore, while the specific literati and operatic milieu depicted in the novel
 
 **梨园之外的世界与学术视角：** 值得注意的是，这种对娇弱、女性化男子的偏爱很大程度上是特定于精英阶层文人和梨园世界的。现代学术研究提供了进一步的背景：在更广泛的社会中，特别是在劳工阶层、普通市井和武侠江湖中，男性同性吸引的审美可能截然不同。正如学者苏成捷（Matthew Sommer，著有《清代社会的性、法律与社会》）等人的研究所指出的，在底层阶级和边缘男性中，同性关系通常围绕着共同生存、兄弟情谊和分担劳作而形成。在这些关系中，粗犷和体力是实际需要，而非刻意追求的风格。在这些环境中，男性的阳刚之气，如体力、粗犷、兄弟情谊和忠诚（通常与武侠或结拜兄弟的传统相关），仍然受到高度重视和赞赏。剧院中的“才子佳人”模式只是一种精英亚文化，而非普遍标准。此外，吴存存（Wu Cuncun，著有《明清社会性爱风气》/ *Homoerotic Sensibilities in Late Imperial China*）等研究者也指出，文人对女性化旦角的强烈关注是一种特定的文化现象，它将同性情欲与精英地位、权力和精致消费紧密联系在一起，这与特权圈子之外那种基于现实和生存驱动的男性纽带形成了鲜明对比。
 
-因此，虽然小说中所描绘的特定文人和梨园环境无疑将他们的男性同性情欲审美集中在女性化、娇弱的男性美上，但这绝非整个清代社会中同性吸引的唯一模式。`},N=Object.freeze(Object.defineProperty({__proto__:null,question:F},Symbol.toStringTag,{value:"Module"})),R={categoryZh:"酒令诗会与意象",categoryEn:"Games & Literary Motifs",questionEn:"What role do mirrors play in the novel, and what is their literary significance? Analyze with specific paragraphs.",questionZh:"全书有哪些写到镜子的内容，用意是什么？结合具体段落分析",answerEn:`Mirrors appear not only as everyday objects but also as a central literary motif that directly ties into the novel's title, *Pinhua baojian* (*A Precious Mirror for Judging Flowers*). Throughout the book, the mirror carries multiple metaphors, functioning as a symbol of romantic intimacy, a medium for exploring fluid identities, and a reflection of the illusory nature of life.
+因此，虽然小说中所描绘的特定文人和梨园环境无疑将他们的男性同性情欲审美集中在女性化、娇弱的男性美上，但这绝非整个清代社会中同性吸引的唯一模式。`},N=Object.freeze(Object.defineProperty({__proto__:null,question:O},Symbol.toStringTag,{value:"Module"})),R={categoryZh:"酒令诗会与意象",categoryEn:"Games & Literary Motifs",questionEn:"What role do mirrors play in the novel, and what is their literary significance? Analyze with specific paragraphs.",questionZh:"全书有哪些写到镜子的内容，用意是什么？结合具体段落分析",answerEn:`Mirrors appear not only as everyday objects but also as a central literary motif that directly ties into the novel's title, *Pinhua baojian* (*A Precious Mirror for Judging Flowers*). Throughout the book, the mirror carries multiple metaphors, functioning as a symbol of romantic intimacy, a medium for exploring fluid identities, and a reflection of the illusory nature of life.
 
 ### 1. A Symbol of Intimacy and Perfect Matching (Chapter 14)
 In Chapter 14, mirrors are used to visually underscore the ideal "scholar and beauty" romance between male characters. Huifang playfully brings a mirror to Chunhang: *"Huifang smilingly took the mirror and leaned against Chunhang to look, reflecting two jade-like people."* This shared reflection not only highlights their physical closeness but also externalizes their parallel beauty and matched talents, reinforcing the idealized nature of their relationship.
@@ -1631,7 +1631,146 @@ While using similar tropes of jade-like skin and cinnabar lips, *Pinhua Baojian*
 ### 在《品花宝鉴》中的具体反映
 *   **“花”的隐喻：** 书名《品花宝鉴》本身就将年轻男子等同于需要被收集、评价和欣赏的娇弱花朵，这是一种传统上用于女性的修辞。
 *   **对美的描写：** 像杜琴言这样的角色，在书中的描写使用了通常用于古典美人的词汇：纤弱的腰肢、柔嫩的肌肤、娇羞的神态和情感上的脆弱。他们在体力上的娇弱和艺术上的修养（诗词、唱腔）是他们最主要的吸引力。
-*   **“知音”的理想化：** 小说将这种不平等的关系升华为精神层面上的浪漫传奇（“知音”），强调柏拉图式的纯洁和情感上的忠诚，而非肉体上的欲望。这种描绘将年轻演员塑造成了如同贞洁、贤惠的女性伴侣一般的理想形象。`},ue=Object.freeze(Object.defineProperty({__proto__:null,question:de},Symbol.toStringTag,{value:"Module"})),ce={categoryZh:"情节与人物",categoryEn:"Plot & Characters",questionEn:"Qinyan's story in each chapter (summary)",questionZh:"琴言在每章的故事（概要）",answerEn:`Here is a chapter-by-chapter summary of Qinyan's appearances and story arc:
+*   **“知音”的理想化：** 小说将这种不平等的关系升华为精神层面上的浪漫传奇（“知音”），强调柏拉图式的纯洁和情感上的忠诚，而非肉体上的欲望。这种描绘将年轻演员塑造成了如同贞洁、贤惠的女性伴侣一般的理想形象。`},ue=Object.freeze(Object.defineProperty({__proto__:null,question:de},Symbol.toStringTag,{value:"Module"})),ce={categoryZh:"情节与人物",categoryEn:"Plot & Characters",questionEn:"How many names does Qinyan have? How did he acquire those names? Explain with references to the book excerpts.",questionZh:"琴言一共有多少个名字？这些名字是如何得来的？请结合书中原文进行解答。",answerEn:`In *Pinhua Baojian* (品花宝鉴), Du Qinyan (杜琴言) carries **7 distinct names, style names, adopted names, and honorific titles** throughout the novel. His sequence of names marks his dramatic transformation from an orphaned performer to a respected member of the scholar-gentry.
+
+Here is the complete analysis of Qinyan's 7 names and how he acquired each, complete with original book excerpts:
+
+---
+
+### 1. 杜琴官 (Dù Qínguān) — Original Birth / Performer Name
+* **How Acquired:** Given by his father, Du Qinshi (杜琴师), a famous zither maker and player in Jiangsu. Because of his father's profession, he was named using the character **琴** (zither). When sold into the theater troupe after being orphaned, he used the suffix **官** (guan), a standard naming convention for young actors.
+* **Book Excerpt (Chapter 5):**
+  > "This Qinguan's surname was Du; his father was called Du Qinshi, making and playing zithers for a living... Having this son, he named him with the character *Qin*, calling him Qinguan."  
+  > (这个琴官姓杜，父亲叫做杜琴师，以制琴弹琴为业……生了这个儿子就以琴字为名，叫为琴官。)
+
+---
+
+### 2. 杜琴言 (Dù Qínyán) — Primary Formal Name
+* **How Acquired:** In Chapter 5, when Xu Ziyun (徐子云) and Xiao Jingyi (萧次贤) host Qinyan at Yiyuan, Ziyun noted that the suffix "官" (guan) sounded too vulgar and actor-like. At Ziyun's suggestion, Xiao Jingyi replaced "官" (guan) with "言" (yan), creating the refined name **琴言** (Qinyan), which Ziyun praised as "both fresh and elegant."
+* **Book Excerpt (Chapter 5):**
+  > "Ziyun said: 'This name of his is not good. Jingyi, change a character for him and replace this *guan* character, and give him a style name.' Cixian thought for a moment and said: 'How about changing it to Qinyan, with the style name Yunong?' Ziyun said: 'Very good, these two characters Qinyan are both fresh and elegant...'"  
+  > (子云道：「他这个名字不好，静宜你与他改一个字，将这官字换了罢，再与他起个号。」次贤想了一回道：「改为琴言，号玉侬，可好么？」子云道：「很好，这琴言二字，又新又雅……」)
+
+---
+
+### 3. 玉侬 (Yùnóng) — Courtesy / Style Name (号)
+* **How Acquired:** Bestowed simultaneously by Xiao Jingyi (萧次贤) in Chapter 5 alongside "Qinyan". Ziyun remarked: *"The style name Yunong elegantly suits his person."* Throughout the novel, close literati friends (especially Mei Ziyu) affectionately address him as "Yunong".
+* **Book Excerpt (Chapter 5):**
+  > "Cixian thought for a moment and said: 'How about changing it to Qinyan, with the style name Yunong?' Ziyun said: 'Very good... the style name Yunong elegantly suits his person.'"  
+  > (次贤想了一回道：「改为琴言，号玉侬，可好么？」子云道：「很好……玉侬之号，雅称其人。」)
+
+---
+
+### 4. 屈勤先 (Qū Qínxiān) — Formal Name upon Gentry Adoption
+* **How Acquired:** In Chapter 45, the virtuous elder scholar Qu Daoweng (屈道翁) redeems Qinyan from the troupe and adopts him as his legal son (义子). To completely erase his performer past and prepare him for the scholar-gentry class, Qu Daoweng gave Qinyan his surname **屈** (Qu) and changed his given name to **勤先** (Qinxian), preserving the homophonous memory of "Qin" while selecting scholarly characters.
+* **Book Excerpt (Chapter 45):**
+  > "Daosheng then called Qinyan over and said: 'From now on, you must shed your former identity... Now take my surname, change your name to Qinxian [勤先], keeping a *Qin* sound within, and your style name shall be Qinxian [琴仙].'"  
+  > (道生便叫过琴言来，说道：「从今以后，须要改去本来面目……如今就依我的姓，改名为勤先，留你一个琴字在内，号就是琴仙。」)  
+  > "From then on Qinyan changed his surname to Qu, called Qu Qinxian [屈勤先], and people called him by his style name Qinxian [琴仙]..."  
+  > (以后琴言就改了姓屈，称为屈勤先，人叫他号是琴仙，不叫琴言了……)
+
+---
+
+### 5. 琴仙 / 屈琴仙 (Qū Qínxiān) — Literati Art Name & Later Book Designation
+* **How Acquired:** Conferred by Qu Daoweng in Chapter 45 alongside "勤先" as his art name (号), emphasizing his celestial, untainted nature (*仙* / immortal). In Chapters 45–60, both the narrator and literati friends predominantly call him **琴仙** or **屈琴仙**.
+* **Book Excerpt (Chapters 45–46):**
+  > "...and your style name shall be Qinxian [琴仙]."  
+  > (……号就是琴仙。)  
+  > "Qu Daoweng moved into Yiyuan, living at Haitang Chunpu together with Qinxian... within half a month, Qinxian's literary skill had improved greatly..."  
+  > (话说屈道翁搬过怡园来，与琴仙就在海棠春圃住下……约有半月以来，琴仙的文理已通了好些……)
+
+---
+
+### 6. 屈大爷 (Qū Dàyé) / 屈少君 (Qū Shǎojūn) — Gentry Honorific Titles
+* **How Acquired:** In Chapter 46, after Qinyan becomes Qu Daoweng's adoptive son, Xu Ziyun explicitly instructs all servants in Yiyuan to address Qinyan honorifically as **屈大爷** (Master Qu). In later chapters (e.g. Chapter 59), scholars address him as **屈少君** (Young Gentleman Qu), confirming his complete social status elevation into the gentry.
+* **Book Excerpt (Chapter 46):**
+  > "Daoweng saw that he was intelligent and eager to learn, and was very pleased. Ziyun was even more delighted, instructing the servants in the garden to all call him Master Qu [屈大爷]."  
+  > (道翁见其聪明可学，也甚欢喜。子云更为得意，吩咐园内家人都称为屈大爷。)
+
+---
+
+### 7. 杜仙女 (Dù Xiānnǚ) — Literary Epithet & Mythical Past-Life Persona
+* **How Acquired:** An admiring epithet ("Du the Fairy Maiden") given by theater patrons and friends who marveled at his goddess-like appearance. In Chapter 60, when the scholars create paintings and biographies of the Twelve Flower Deities, Qinyan is linked to his dream persona and past-life lotus-gathering incarnation as **杜仙女**.
+* **Book Excerpt (Chapter 60):**
+  > "Jifu said: 'If the Flower Deities must have twelve, we can make it up... borrow Yunong's past-life identity, that Du Xiannv, to add up with Yunong, isn't that twelve?'"  
+  > (吉甫道：「花神若定要十二位，也可凑得上，只要把屈道翁做了芙蓉城主，再借重玉侬的前生所说那杜仙女，凑上玉侬，不是十二位了？」)
+
+---
+
+### Summary
+Qinyan's 7 names reflect every major milestone of his life:
+1. **杜琴官** — His origin as a zither master's son sold into drama.
+2. **杜琴言** — His refinement by high-minded literati patrons.
+3. **玉侬** — His romantic and intimate bond with Mei Ziyu.
+4. **屈勤先** — His legal adoption into the gentry.
+5. **屈琴仙** — His recognition as an untainted, celestial artist.
+6. **屈大爷 / 屈少君** — His formal social status as a young gentleman.
+7. **杜仙女** — His mythical beauty and romantic symbolism.`,answerZh:`在《品花宝鉴》全书中，主角杜琴言共有 **7个不同的姓名、字号及尊称**。这一系列名号的变迁，清晰地记录了他从沦落风尘的孤儿伶人，逐步脱籍改姓、最终回归并融入士大夫阶层的传奇一生。
+
+以下是琴言的 7 个名号及其得来缘由与书中原文引用：
+
+---
+
+### 1. 杜琴官 — 童生戏名 / 本名
+* **得来缘由：** 琴言之父杜琴师以制琴、弹琴为业，因生下儿子便以“琴”字为名，叫作“琴官”。后遭变故卖入戏班，“官”字为当时幼伶常用之戏名后缀（如琪官、宝官等）。
+* **书中原文（第5回）：**
+  > 「这个琴官姓杜，父亲叫做杜琴师，以制琴弹琴为业，江苏缙绅子弟争相延请教琴，因此都称他为杜琴师。生了这个儿子就以琴字为名，叫为琴官。」
+
+---
+
+### 2. 杜琴言 — 主要正名
+* **得来缘由：** 第5回中，徐子云与萧次贤在怡园接见琴官，子云认为“官”字带有下流伶人习气（“将这官字换了罢”），请萧次贤为其改名。次贤将“官”字改为“言”字，定名为“琴言”，子云称赞“这琴言二字，又新又雅”。
+* **书中原文（第5回）：**
+  > 子云道：「他这个名字不好，静宜你与他改一个字，将这官字换了罢，再与他起个号。」次贤想了一回道：「改为琴言，号玉侬，可好么？」子云道：「很好，这琴言二字，又新又雅……」
+
+---
+
+### 3. 玉侬 — 表字 / 别号（号）
+* **得来缘由：** 第5回中由萧次贤在改名“琴言”的同时赐号“玉侬”。徐子云赞曰“玉侬之号，雅称其人”。全书中，梅子玉及怡园诸名士私下多亲切称呼其为“玉侬”。
+* **书中原文（第5回）：**
+  > 次贤想了一回道：「改为琴言，号玉侬，可好么？」子云道：「很好……玉侬之号，雅称其人。」
+
+---
+
+### 4. 屈勤先 — 赎身归正后的义子正名
+* **得来缘由：** 第45回中，高洁名士屈道翁斥巨资为琴言赎身，并收其为义子。为了彻底摒弃从前贱籍面目、迎接入仕读书正途，屈道翁让琴言随自己姓“屈”，并将名改为“勤先”，既保留了原名“琴”的谐音，又赋予士子勤勉之意。
+* **书中原文（第45回）：**
+  > 道生便叫过琴言来，说道：「从今以后，须要改去本来面目，也不应常到外边，在我寓里读书习字。出京日期也近了，你的名姓是都要改的，如今就依我的姓，改名为勤先，留你一个琴字在内，号就是琴仙。」  
+  > 「以后琴言就改了姓屈，称为屈勤先，人叫他号是琴仙，不叫琴言了，看官须自记明。」
+
+---
+
+### 5. 琴仙 / 屈琴仙 — 雅号及后期主要称谓
+* **得来缘由：** 第45回屈道翁收其为子时所赐之雅号（“号就是琴仙”），寄托了对其高洁如仙、不染尘俗品格的赞赏。在第45回至60回中，叙述者及诸位名士多直接称呼其为“琴仙”或“屈琴仙”。
+* **书中原文（第45~46回）：**
+  > 「……如今就依我的姓，改名为勤先，留你一个琴字在内，号就是琴仙。」  
+  > 「话说屈道翁搬过怡园来，与琴仙就在海棠春圃住下……约有半月以来，琴仙的文理已通了好些……」
+
+---
+
+### 6. 屈大爷 / 屈少君 — 士族世家尊称
+* **得来缘由：** 第46回中，琴言成为屈道翁义子后，徐子云特意吩咐怡园家人仆从一律称呼其为“屈大爷”。后文（如第59回）名士交往中亦尊称其为“屈少君”，标志着其社会身份彻底确立为世家公子。
+* **书中原文（第46回）：**
+  > 「道翁见其聪明可学，也甚欢喜。子云更为得意，吩咐园内家人都称为屈大爷。」
+
+---
+
+### 7. 杜仙女 — 绝世绰号与前身寓意化身
+* **得来缘由：** 琴言容貌绝世、清丽脱俗，被世人与戏客惊叹为“仙女”。第60回众人绘十二花神图及作传赞时，将琴言梦境与前生采莲船之缘结合，称其前身化身为“杜仙女”。
+* **书中原文（第60回）：**
+  > 吉甫道：「花神若定要十二位，也可凑得上，只要把屈道翁做了芙蓉城主，再借重玉侬的前生所说那杜仙女，凑上玉侬，不是十二位了？」
+
+---
+
+### 总结
+琴言的 7 个名号不仅是称谓的变化，更是其人生轨迹的生动写照：
+1. **杜琴官** — 琴师之子落入戏班的苦难起点；
+2. **杜琴言** — 获名士赏识、洗去俗气的主要名字；
+3. **玉侬** — 与梅子玉相知相爱的深情表字；
+4. **屈勤先** — 赎身脱籍、认父归正的宗法正名；
+5. **屈琴仙** — 超凡脱俗、文采日进的雅士称号；
+6. **屈大爷 / 屈少君** — 确立世家子弟尊严的社会身份；
+7. **杜仙女** — 兼具倾国之貌与梦幻前生的文学意象。`},ge=Object.freeze(Object.defineProperty({__proto__:null,question:ce},Symbol.toStringTag,{value:"Module"})),pe={categoryZh:"情节与人物",categoryEn:"Plot & Characters",questionEn:"Qinyan's story in each chapter (summary)",questionZh:"琴言在每章的故事（概要）",answerEn:`Here is a chapter-by-chapter summary of Qinyan's appearances and story arc:
 
 Chapter 2:
 - Introduced as a gifted new opera performer named 琴官, fifteen years old, who has just arrived in Beijing — Wei Pengcai describes him to Ziyu as a sensation of exceptional beauty and talent.
@@ -1979,7 +2118,7 @@ Chapter 60:
 - 于大型重聚中复见士林友朋，此时已非伶人之身，而为清雅文人矣。
 - 以玉侬之名列于拟绘之《花神图》中，与九位佳人并存青史。
 
-`},ge=Object.freeze(Object.defineProperty({__proto__:null,question:ce},Symbol.toStringTag,{value:"Module"})),pe={categoryZh:"同性情欲与性别研究",categoryEn:"Queer & Gender Studies",questionEn:"What is the significance of discussing Pinhua Baojian today for envisioning future gay culture? Answer based on the entire book.",questionZh:"在当代重新谈论品花宝鉴对展望未来的男同性恋文化有什么意义吗？结合全书回答",answerEn:`Discussing *Pinhua Baojian* today offers significant insights for envisioning the future of gay culture by serving as a historical mirror that reflects both the enduring pursuit of spiritual connection and the boundaries of its era.
+`},me=Object.freeze(Object.defineProperty({__proto__:null,question:pe},Symbol.toStringTag,{value:"Module"})),ye={categoryZh:"同性情欲与性别研究",categoryEn:"Queer & Gender Studies",questionEn:"What is the significance of discussing Pinhua Baojian today for envisioning future gay culture? Answer based on the entire book.",questionZh:"在当代重新谈论品花宝鉴对展望未来的男同性恋文化有什么意义吗？结合全书回答",answerEn:`Discussing *Pinhua Baojian* today offers significant insights for envisioning the future of gay culture by serving as a historical mirror that reflects both the enduring pursuit of spiritual connection and the boundaries of its era.
 
 ### 1. Redefining the Balance Between Emotion and Physicality
 The novel's strict separation of "Qing" (pure emotion) and "Yin" (lust) highlights the historical stigma surrounding physical intimacy between men. By revisiting this, future gay culture can better appreciate the modern holistic view of relationships where spiritual and physical love are integrated, moving away from the need to "purify" same-sex love to make it acceptable.
@@ -2001,7 +2140,7 @@ By understanding how *Pinhua Baojian* conceptualized male intimacy within the co
 ### 3. 突破异性恋霸权框架
 最终，小说中的主要人物都回归了传统的异性恋婚姻，将他们的同性深情视为一种暂时的或审美的阶段。反思这一局限性，鼓励未来的男同性恋文化继续构建终身、排他性的身份认同和家庭结构，使其不必向异性恋的社会期望妥协或被其吞没。
 
-通过理解《品花宝鉴》如何在清代社会规范的限制下构建男性亲密关系，当代的同志文化能够以批判的眼光，建设一个更加平等、完整且坚定自信的未来。`},me=Object.freeze(Object.defineProperty({__proto__:null,question:pe},Symbol.toStringTag,{value:"Module"})),ye={categoryZh:"情节与人物",categoryEn:"Plot & Characters",questionEn:"Summarize the storyline between Tian Chunhang and Su Huifang.",questionZh:"梳理一下田春航×苏蕙芳的故事线",answerEn:`The story line between the scholar Tian Chunhang and the famous actor Su Huifang is one of the most important and touching plots in *Pinhua Baojian*. 
+通过理解《品花宝鉴》如何在清代社会规范的限制下构建男性亲密关系，当代的同志文化能够以批判的眼光，建设一个更加平等、完整且坚定自信的未来。`},fe=Object.freeze(Object.defineProperty({__proto__:null,question:ye},Symbol.toStringTag,{value:"Module"})),we={categoryZh:"情节与人物",categoryEn:"Plot & Characters",questionEn:"Summarize the storyline between Tian Chunhang and Su Huifang.",questionZh:"梳理一下田春航×苏蕙芳的故事线",answerEn:`The story line between the scholar Tian Chunhang and the famous actor Su Huifang is one of the most important and touching plots in *Pinhua Baojian*. 
 
 Here is the storyline summarized based on the novel's full text:
 1. **First Meeting and Becoming Friends (Chapters 12-13)**
@@ -2584,7 +2723,7 @@ Below are the relevant collected paragraphs from the full text outlining their s
 
 【第60回】 琴仙再看第三方，画一个仙女，云鬟雾縠，清艳绝伦，手拈一枝蕙花，琴仙已知是蕙芳。看题的是：锦文花史苏仙。是春航一篇跋语：
 
-`},fe=Object.freeze(Object.defineProperty({__proto__:null,question:ye},Symbol.toStringTag,{value:"Module"})),we={categoryZh:"翻译与数字人文",categoryEn:"Translation & Digital Humanities",questionEn:"Identify ten categories of problems translating classical Chinese to English. Illustrate with specific sentences.",questionZh:"找出十类中文翻译成英文的问题。结合具体句子说明。",answerEn:`Translating *Pinhua Baojian* from classical Chinese to English presents numerous linguistic and cultural challenges. The text is dense with historical allusions, poetic imagery, and complex idioms that often lack direct English equivalents.
+`},be=Object.freeze(Object.defineProperty({__proto__:null,question:we},Symbol.toStringTag,{value:"Module"})),ve={categoryZh:"翻译与数字人文",categoryEn:"Translation & Digital Humanities",questionEn:"Identify ten categories of problems translating classical Chinese to English. Illustrate with specific sentences.",questionZh:"找出十类中文翻译成英文的问题。结合具体句子说明。",answerEn:`Translating *Pinhua Baojian* from classical Chinese to English presents numerous linguistic and cultural challenges. The text is dense with historical allusions, poetic imagery, and complex idioms that often lack direct English equivalents.
 
 Here are 10 categories of translation problems encountered, with specific examples:
 
@@ -2730,7 +2869,7 @@ Expressions used to denigrate or criticize behaviors.
 *中文:* 朝秦暮楚...缠头是爱。
 *英文翻译:* "...switching from Qin to Chu morning and night... they love only the cash tied around their heads."
 *问题:* “朝秦暮楚”是表示反复无常的特定历史习语。“缠头”指的是戏曲打赏。
-`},be=Object.freeze(Object.defineProperty({__proto__:null,question:we},Symbol.toStringTag,{value:"Module"})),ve={categoryZh:"翻译与数字人文",categoryEn:"Translation & Digital Humanities",questionEn:"What role did vibe coding AI play in this project? Provide specific examples.",questionZh:"vibe coding ai在这个项目中起到了哪些作用，结合具体例子说明。",answerEn:"Vibe coding AI played a significant role as an intelligent development assistant in this project, specifically from three key angles:\n\n1. **Translation:** AI scripts helped manage the precise alignment of English paragraph translations with the corresponding Chinese texts, ensuring strict index matching necessary for the seamless dual-pane bilingual reading experience.\n2. **Answering Research Questions:** AI tools were used to process and analyze humanistic data, such as extracting character mentions, generating bilingual scene summaries (e.g., in `src/characterAppearances/`), and dynamically resolving duplicate character entries using `mergeGroups`. This accelerated the process of answering complex research questions about character relationships and narrative structure.\n3. **UI Design:** AI assisted in designing and implementing complex interactive React components, such as the dynamic D3-based Character Relationship Network graph (`NetworkGraph.tsx`) with responsive resizing, and the `WorkModal` for displaying cited literary works with context snippets, providing a highly interactive user experience.",answerZh:"在这个项目中，Vibe coding AI 作为智能开发助手发挥了重要作用，具体体现在以下三个方面：\n\n1. **翻译 (Translation)：** AI 脚本帮助管理英文段落翻译与对应中文文本的精准对齐，确保了严格的索引匹配，从而实现了流畅无缝的双语对照阅读体验。\n2. **解答研究问题 (Answering Research Questions)：** AI 工具被用于处理和分析人文数据，例如提取人物出场信息、生成双语场景摘要（如 `src/characterAppearances/` 目录下的文件），并通过 `mergeGroups` 动态解决重复的人物条目。这大大加速了围绕人物关系和叙事结构等复杂数字人文研究问题的解答过程。\n3. **UI 设计 (UI Design)：** AI 协助设计并实现了复杂的交互式 React 组件，例如基于 D3 的人物关系网络图（`NetworkGraph.tsx`，具备响应式动态缩放功能），以及用于展示引经据典及其上下文片段的 `WorkModal` 模态框，为用户提供了高度互动的界面体验。"},ke=Object.freeze(Object.defineProperty({__proto__:null,question:ve},Symbol.toStringTag,{value:"Module"})),Ce={categoryZh:"翻译与数字人文",categoryEn:"Translation & Digital Humanities",questionEn:"How do the numerous Chinese wordplays in Pinhua Baojian create difficulties for English translation? Explain using five classic wordplays from the book.",questionZh:"如何理解《品花宝鉴》里这么多中文的文字游戏对翻译成英文造成的困难？结合全书五个经典的文字游戏说明。",answerEn:`Translating Pinhua Baojian presents significant challenges due to its frequent use of Chinese wordplays, which are deeply rooted in the linguistic structure, cultural nuances, and historical context of the Chinese language. These literary devices often rely on homophones, character morphology (breaking down characters into their constituent parts), and poetic structures that have no direct equivalent in English. Consequently, a literal translation often loses the humor, cleverness, and underlying meaning of the original text, while a creative adaptation may stray too far from the author's intent or require extensive explanatory footnotes that disrupt the reading flow.
+`},ke=Object.freeze(Object.defineProperty({__proto__:null,question:ve},Symbol.toStringTag,{value:"Module"})),Ce={categoryZh:"翻译与数字人文",categoryEn:"Translation & Digital Humanities",questionEn:"What role did vibe coding AI play in this project? Provide specific examples.",questionZh:"vibe coding ai在这个项目中起到了哪些作用，结合具体例子说明。",answerEn:"Vibe coding AI played a significant role as an intelligent development assistant in this project, specifically from three key angles:\n\n1. **Translation:** AI scripts helped manage the precise alignment of English paragraph translations with the corresponding Chinese texts, ensuring strict index matching necessary for the seamless dual-pane bilingual reading experience.\n2. **Answering Research Questions:** AI tools were used to process and analyze humanistic data, such as extracting character mentions, generating bilingual scene summaries (e.g., in `src/characterAppearances/`), and dynamically resolving duplicate character entries using `mergeGroups`. This accelerated the process of answering complex research questions about character relationships and narrative structure.\n3. **UI Design:** AI assisted in designing and implementing complex interactive React components, such as the dynamic D3-based Character Relationship Network graph (`NetworkGraph.tsx`) with responsive resizing, and the `WorkModal` for displaying cited literary works with context snippets, providing a highly interactive user experience.",answerZh:"在这个项目中，Vibe coding AI 作为智能开发助手发挥了重要作用，具体体现在以下三个方面：\n\n1. **翻译 (Translation)：** AI 脚本帮助管理英文段落翻译与对应中文文本的精准对齐，确保了严格的索引匹配，从而实现了流畅无缝的双语对照阅读体验。\n2. **解答研究问题 (Answering Research Questions)：** AI 工具被用于处理和分析人文数据，例如提取人物出场信息、生成双语场景摘要（如 `src/characterAppearances/` 目录下的文件），并通过 `mergeGroups` 动态解决重复的人物条目。这大大加速了围绕人物关系和叙事结构等复杂数字人文研究问题的解答过程。\n3. **UI 设计 (UI Design)：** AI 协助设计并实现了复杂的交互式 React 组件，例如基于 D3 的人物关系网络图（`NetworkGraph.tsx`，具备响应式动态缩放功能），以及用于展示引经据典及其上下文片段的 `WorkModal` 模态框，为用户提供了高度互动的界面体验。"},xe=Object.freeze(Object.defineProperty({__proto__:null,question:Ce},Symbol.toStringTag,{value:"Module"})),Te={categoryZh:"翻译与数字人文",categoryEn:"Translation & Digital Humanities",questionEn:"How do the numerous Chinese wordplays in Pinhua Baojian create difficulties for English translation? Explain using five classic wordplays from the book.",questionZh:"如何理解《品花宝鉴》里这么多中文的文字游戏对翻译成英文造成的困难？结合全书五个经典的文字游戏说明。",answerEn:`Translating Pinhua Baojian presents significant challenges due to its frequent use of Chinese wordplays, which are deeply rooted in the linguistic structure, cultural nuances, and historical context of the Chinese language. These literary devices often rely on homophones, character morphology (breaking down characters into their constituent parts), and poetic structures that have no direct equivalent in English. Consequently, a literal translation often loses the humor, cleverness, and underlying meaning of the original text, while a creative adaptation may stray too far from the author's intent or require extensive explanatory footnotes that disrupt the reading flow.
 
 Here are five classic examples of wordplays in the novel that illustrate these translation difficulties:
 
@@ -2754,7 +2893,7 @@ Here are five classic examples of wordplays in the novel that illustrate these t
 
 4. **古典引用与双关 (第十四回)：** 在玩一个涉及“奚”字（在文言文中意为“怎么”或“为什么”，也是一个姓氏）的游戏时，角色们使用了各种包含该字的古典名句。幽默往往源于对名句的故意曲解或将其双关应用于当前情境。在英文中同时捕捉古典引用和情境双关是一项艰巨的任务。
 
-5. **戏目对联 (第三十七回)：** 角色们使用传统戏曲的名称来作对联。挑战在于匹配平仄和戏名的语义。例如，将“踏月”与“扫花”相对。虽然意义可以翻译，但严格的声调规则和特定戏名的文化共鸣在英文中会丢失，将一个巧妙的语言练习变成了简单的词语匹配。`},xe=Object.freeze(Object.defineProperty({__proto__:null,question:Ce},Symbol.toStringTag,{value:"Module"})),Te={categoryZh:"酒令诗会与意象",categoryEn:"Games & Literary Motifs",questionEn:"What drinking games (酒令) did Ziyu participate in across the chapters? What were the rules? Who were the participants? Who won and who lost?",questionZh:"子玉参加了哪些章节中的酒令游戏？游戏规则是怎么样的？参与者有哪些？谁胜出？谁输了？",answerEn:`Based on the full text of *Pinhua Baojian*, Mei Ziyu (Yuxiang) actively participates in drinking games in **Chapter 7**, **Chapter 35**, **Chapter 37**, and a more casual dice game in **Chapter 48**.
+5. **戏目对联 (第三十七回)：** 角色们使用传统戏曲的名称来作对联。挑战在于匹配平仄和戏名的语义。例如，将“踏月”与“扫花”相对。虽然意义可以翻译，但严格的声调规则和特定戏名的文化共鸣在英文中会丢失，将一个巧妙的语言练习变成了简单的词语匹配。`},Se=Object.freeze(Object.defineProperty({__proto__:null,question:Te},Symbol.toStringTag,{value:"Module"})),Ze={categoryZh:"酒令诗会与意象",categoryEn:"Games & Literary Motifs",questionEn:"What drinking games (酒令) did Ziyu participate in across the chapters? What were the rules? Who were the participants? Who won and who lost?",questionZh:"子玉参加了哪些章节中的酒令游戏？游戏规则是怎么样的？参与者有哪些？谁胜出？谁输了？",answerEn:`Based on the full text of *Pinhua Baojian*, Mei Ziyu (Yuxiang) actively participates in drinking games in **Chapter 7**, **Chapter 35**, **Chapter 37**, and a more casual dice game in **Chapter 48**.
 
 ### Chapter 7: "Matching Poems" and "Assembling Characters" at Liu Wenze's Residence
 - **Game Rules:** The host initiates by giving a single character. Others must quickly match it with another character, eventually forming a coherent five-character or seven-character poetic line. If the line is incoherent or no character can be matched, the person is penalized with wine. They also play a "character-splitting" game where parts of characters are matched.
@@ -2840,7 +2979,7 @@ Here are five classic examples of wordplays in the novel that illustrate these t
   - **琪官** 随后也掷出“全红”。
   - **子玉** 见状非常高兴，以为是天地神明护佑的吉兆。然而文本向读者揭示了真相：这其实是琪官为了安慰琴仙，故意拿出了一副六面全被涂成红色的假骰子。
 - **具体引用段落：**
-  > 琴仙放在手中，重新入席，拿了个空碟儿，对着子玉、琪官说道：「三心和同，有始有终。掷个全红。」▉琅一声掷下，却也奇怪，倒像有神明佑护着他，却好碰着六个全红。子玉大喜，琴仙也觉开怀……若论这副骰子再掷一掷，保管也是个全红，何以琪官即行收起，不教琴仙再掷呢？原来这骰子六面皆是红的，并无二色，那是琪官做的顽意。今日琴仙被他赚了，解了好些愁闷。`},Se=Object.freeze(Object.defineProperty({__proto__:null,question:Te},Symbol.toStringTag,{value:"Module"})),Pe={categoryZh:"情节与人物",categoryEn:"Plot & Characters",questionEn:"In which chapters of the entire book do Ziyu and Qinyan have meetings?",questionZh:"全书中有哪些章节子玉和琴言是有会面的？",answerEn:`After carefully reviewing the full text of the application, there are **8 specific chapters** where Mei Ziyu and Du Qinyan have physical, face-to-face meetings.
+  > 琴仙放在手中，重新入席，拿了个空碟儿，对着子玉、琪官说道：「三心和同，有始有终。掷个全红。」▉琅一声掷下，却也奇怪，倒像有神明佑护着他，却好碰着六个全红。子玉大喜，琴仙也觉开怀……若论这副骰子再掷一掷，保管也是个全红，何以琪官即行收起，不教琴仙再掷呢？原来这骰子六面皆是红的，并无二色，那是琪官做的顽意。今日琴仙被他赚了，解了好些愁闷。`},Pe=Object.freeze(Object.defineProperty({__proto__:null,question:Ze},Symbol.toStringTag,{value:"Module"})),qe={categoryZh:"情节与人物",categoryEn:"Plot & Characters",questionEn:"In which chapters of the entire book do Ziyu and Qinyan have meetings?",questionZh:"全书中有哪些章节子玉和琴言是有会面的？",answerEn:`After carefully reviewing the full text of the application, there are **8 specific chapters** where Mei Ziyu and Du Qinyan have physical, face-to-face meetings.
 
 Here is the complete collection of their encounters, along with relevant paragraph citations:
 
@@ -2926,4 +3065,4 @@ These 8 encounters form the core of their physical interactions across the entir
 > 「子玉、金粟都是随身便服，各带了书童，坐车到怡园。……子玉也与琴仙并坐，靠在一个窗里，慢慢的荡到桥边……」
 > 「又道：「玉侬两三天就要走了，今日庾香应当怎样，也应大家叙个痛快。这一别不知几年再见呢。」子玉、琴仙听了，都觉凄然，几乎堕泪。」
 
-这8次碰面构成了全书中两位主角所有核心的面对面互动。`},Ze=Object.freeze(Object.defineProperty({__proto__:null,question:Pe},Symbol.toStringTag,{value:"Module"}));function o(e){return typeof e=="object"&&e!==null&&"categoryZh"in e&&"categoryEn"in e&&"questionEn"in e&&"questionZh"in e&&"answerEn"in e&&"answerZh"in e}function qe(e,a){if(a.question&&o(a.question))return a.question;const t=Object.values(a).find(o);if(t)return t;throw new Error(`No question export found in ${e}`)}function je(e){const a=e.match(/\/([^/]+)\.ts$/);if(!a)throw new Error(`Invalid question path: ${e}`);return a[1]}function Ee(e){const a=Object.entries(e).map(([n,i])=>({...qe(n,i),slug:je(n)}));a.sort((n,i)=>n.slug.localeCompare(i.slug));const t=new Set;for(const n of a){if(t.has(n.slug))throw new Error(`Duplicate question slug ${n.slug}`);t.add(n.slug)}return a}const He=Object.assign({"./data/academic-papers.ts":s,"./data/beijing-urban-same-sex-desire.ts":l,"./data/chapter-36-37-qinyan-crying.ts":u,"./data/chapter-37-drinking-game.ts":g,"./data/character-word-count.ts":m,"./data/contemporary-homosexual-relationships.ts":f,"./data/drinking-game-paragraphs.ts":b,"./data/editions-publication-history.ts":k,"./data/english-wordplay-clarity.ts":x,"./data/five-characters-fates.ts":S,"./data/haose-er-bu-yin.ts":Z,"./data/historical-era.ts":j,"./data/historical-limitations.ts":H,"./data/homosexuality-terms.ts":_,"./data/jiangxi-relationship.ts":I,"./data/llm-misgendering-male-actors.ts":M,"./data/main-drinking-game-scenes.ts":Q,"./data/main-performers.ts":G,"./data/main-scholars.ts":D,"./data/males-admiring-males.ts":O,"./data/masculinity-aesthetic.ts":N,"./data/mirror-motif.ts":J,"./data/negative-attitude-homosexuality.ts":K,"./data/peking-opera-genre.ts":V,"./data/pinhua-vs-bian-er-chai.ts":ae,"./data/pinhua-vs-hongloumeng.ts":te,"./data/pinhua-vs-longyang-yishi.ts":oe,"./data/pinhua-vs-yichun-xiangzhi.ts":se,"./data/poetry-competitions.ts":le,"./data/qing-vs-contemporary-aesthetics.ts":ue,"./data/qinyan-story-per-chapter-summary.ts":ge,"./data/significance-today-gay-culture.ts":me,"./data/tian-chunhang-su-huifang.ts":fe,"./data/translation-problem-categories.ts":be,"./data/vibe-coding-ai.ts":ke,"./data/wordplay-translation-difficulties.ts":xe,"./data/ziyu-drinking-games.ts":Se,"./data/ziyu-qinyan-meetings.ts":Ze}),ze=Ee(He);export{ze as q};
+这8次碰面构成了全书中两位主角所有核心的面对面互动。`},He=Object.freeze(Object.defineProperty({__proto__:null,question:qe},Symbol.toStringTag,{value:"Module"}));function o(e){return typeof e=="object"&&e!==null&&"categoryZh"in e&&"categoryEn"in e&&"questionEn"in e&&"questionZh"in e&&"answerEn"in e&&"answerZh"in e}function je(e,a){if(a.question&&o(a.question))return a.question;const t=Object.values(a).find(o);if(t)return t;throw new Error(`No question export found in ${e}`)}function Ee(e){const a=e.match(/\/([^/]+)\.ts$/);if(!a)throw new Error(`Invalid question path: ${e}`);return a[1]}function ze(e){const a=Object.entries(e).map(([n,i])=>({...je(n,i),slug:Ee(n)}));a.sort((n,i)=>n.slug.localeCompare(i.slug));const t=new Set;for(const n of a){if(t.has(n.slug))throw new Error(`Duplicate question slug ${n.slug}`);t.add(n.slug)}return a}const _e=Object.assign({"./data/academic-papers.ts":s,"./data/beijing-urban-same-sex-desire.ts":l,"./data/chapter-36-37-qinyan-crying.ts":u,"./data/chapter-37-drinking-game.ts":g,"./data/character-word-count.ts":m,"./data/contemporary-homosexual-relationships.ts":f,"./data/drinking-game-paragraphs.ts":b,"./data/editions-publication-history.ts":k,"./data/english-wordplay-clarity.ts":x,"./data/five-characters-fates.ts":S,"./data/haose-er-bu-yin.ts":P,"./data/historical-era.ts":H,"./data/historical-limitations.ts":E,"./data/homosexuality-terms.ts":_,"./data/jiangxi-relationship.ts":Q,"./data/llm-misgendering-male-actors.ts":W,"./data/main-drinking-game-scenes.ts":L,"./data/main-performers.ts":G,"./data/main-scholars.ts":Y,"./data/males-admiring-males.ts":F,"./data/masculinity-aesthetic.ts":N,"./data/mirror-motif.ts":J,"./data/negative-attitude-homosexuality.ts":K,"./data/peking-opera-genre.ts":V,"./data/pinhua-vs-bian-er-chai.ts":ae,"./data/pinhua-vs-hongloumeng.ts":te,"./data/pinhua-vs-longyang-yishi.ts":oe,"./data/pinhua-vs-yichun-xiangzhi.ts":se,"./data/poetry-competitions.ts":le,"./data/qing-vs-contemporary-aesthetics.ts":ue,"./data/qinyan-names.ts":ge,"./data/qinyan-story-per-chapter-summary.ts":me,"./data/significance-today-gay-culture.ts":fe,"./data/tian-chunhang-su-huifang.ts":be,"./data/translation-problem-categories.ts":ke,"./data/vibe-coding-ai.ts":xe,"./data/wordplay-translation-difficulties.ts":Se,"./data/ziyu-drinking-games.ts":Pe,"./data/ziyu-qinyan-meetings.ts":He}),Be=ze(_e);export{Be as q};
