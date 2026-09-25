@@ -1,4 +1,4 @@
-import{c as xu,C as Mu,a as di}from"./ChapterReader-BtrAu356.js";import"./vendor-react-xmGZs9c5.js";import"./data-core-B-V60pq7.js";import"./data-chapters-Co0mLegN.js";import"./index-9IfdhUJV.js";import"./vendor-lucide-CEUaIzNP.js";import"./vendor-motion-BSc4mhx6.js";import"./data-relationships-B3TnBl8R.js";import"./PermalinkButton-DrNRmtKk.js";import"./vendor-recharts-DWNzroU8.js";import"./vendor-d3-7-LmKCmB.js";/**
+import{c as xu,C as Mu,a as di}from"./ChapterReader-DYYYpGys.js";import"./vendor-react-xmGZs9c5.js";import"./data-core-B-V60pq7.js";import"./data-chapters-Co0mLegN.js";import"./index-BDu7buel.js";import"./vendor-lucide-CEUaIzNP.js";import"./vendor-motion-BSc4mhx6.js";import"./data-relationships-B3TnBl8R.js";import"./PermalinkButton-DAHx4rfY.js";import"./vendor-recharts-DWNzroU8.js";import"./vendor-d3-7-LmKCmB.js";/**
  * @license
  * Copyright 2010-2026 Three.js Authors
  * SPDX-License-Identifier: MIT
